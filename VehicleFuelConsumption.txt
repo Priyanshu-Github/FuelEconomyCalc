@@ -1,0 +1,4 @@
+﻿Vehicle,Litres per 100 km
+Mazda CRX3,8
+KIA Carnival,10.9
+Hyundai Accent,7.3
